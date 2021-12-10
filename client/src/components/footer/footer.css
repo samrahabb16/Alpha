@@ -1,0 +1,17 @@
+input, select, textarea{
+    color: white;
+    outline: none;
+}
+.footerli{
+    text-decoration: none;
+    color: white;
+}
+@media only screen and (max-width: 400px) {
+    .inputfield{
+        width: 98% !important;
+    }
+    .footerbox{
+        padding:0px 0px 0px 0% !important;
+    }
+  }
+

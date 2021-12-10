@@ -1,0 +1,26 @@
+
+div.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation16.MuiDrawer-paper.MuiDrawer-paperAnchorRight.css-1160xiw-MuiPaper-root-MuiDrawer-paper{
+    background-color: #1C063C !important;
+    background: #1C063C !important;
+}
+
+div.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation16.MuiDrawer-paper.MuiDrawer-paperAnchorRight.css-1ab2xsx{
+    background-color: #1C063C !important;
+    background: #1C063C !important;
+}
+
+
+.navItems{
+    color: #FECA0D;
+  }
+  .active, .navItems:hover  {
+    /* background-color: #666; */
+    /* color: #FECA0D; */
+    color: #CC03ED;
+  }
+  .navItemsMobile{
+    color: #FECA0D;
+  }
+  .activeMobileMenu, .navItemsMobile:hover{
+    color: white;
+  }
